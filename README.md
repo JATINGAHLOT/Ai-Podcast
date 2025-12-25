@@ -1,6 +1,6 @@
 
-# AIPodcast: Effortless Podcast Creation with AI
-AIPodcast is a web application that simplifies the creation of podcasts by leveraging the power of Artificial Intelligence. With just a single topic, users can generate a complete podcast episode, saving them significant time and effort.
+# AIPodcraft: Effortless Podcast Creation with AI
+AIPodcrafts is a web application that simplifies the creation of podcasts by leveraging the power of Artificial Intelligence. With just a single topic, users can generate a complete podcast episode, saving them significant time and effort.
 
 ## Features:
 
